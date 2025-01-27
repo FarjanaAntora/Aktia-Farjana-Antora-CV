@@ -1,13 +1,47 @@
 ---
 title: false
 ---
-# Aktia Farjana Antora  
+
+<style>
+    body {
+        background-color: #1e1e1e;
+        color: #dcdcdc;
+        font-family: Arial, sans-serif;
+    }
+    h1, h2, h3 {
+        color: #ffffff;
+    }
+    h1 {
+        font-size: 28px;
+    }
+    h2 {
+        font-size: 22px;
+    }
+    h3 {
+        font-size: 20px;
+    }
+    p, ul {
+        line-height: 1.6;
+    }
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+    .section-title {
+        margin-top: 30px;
+        font-size: 18px;
+        color: #f1f1f1;
+        text-decoration: underline;
+    }
+</style>
+
+# Aktia Farjana Antora
 253 Kawla Bawrartek, Dakshinkhan, Dhaka 1200  
-**Phone**: +880 1686057143 | **Email**: [farjana1319ontu@gmail.com](mailto:farjana1319ontu@gmail.com)  
+**Phone**: +880 1686057143 | **Email**: [farjana1319ontu@gmail.com](mailto:farjana1319ontu@gmail.com)
 
 ---
 
-## Experience  
+## Experience
 
 ### **SQA Engineer**  
 **Echologyx** (December 2022 – Present)  
@@ -39,7 +73,7 @@ title: false
 
 ---
 
-## Education  
+## Education
 
 **American International University-Bangladesh (AIUB)** (2014 – 2018)  
 - Bachelor of Science in Computer Science & Engineering (CGPA: 3.65)  
@@ -52,7 +86,7 @@ title: false
 
 ---
 
-## Skills  
+## Skills
 
 ### **Quality Assurance**  
 - Black box, Gray box, Smoke, Sanity, AB, API, Unit, Goal, Monkey, Exploratory, and Ad hoc testing.  
@@ -82,7 +116,7 @@ title: false
 
 ---
 
-## Projects  
+## Projects
 
 ### **Testing Experience**  
 - ERP, HRMS, E-commerce websites, Product-based websites, Interactive websites, Cross-platform testing.  
